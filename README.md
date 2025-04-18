@@ -1,0 +1,3 @@
+- cd to repo
+- npm install
+- npm run dev
